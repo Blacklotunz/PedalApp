@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PedalApp</string>
+    <string name="hello_world">Hello world!</string>
+    
+    <!-- main activity -->
+	 <string name="point_of_interest">Punti d\'interesse</string>
+	 <string name="routes">Percorsi</string>
+	 <string name="plan_route">Pianifica percorso</string>
+	 <string name="action_help">Aiuto</string>
+</resources>
